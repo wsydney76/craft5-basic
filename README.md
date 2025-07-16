@@ -44,7 +44,7 @@ Requires DDEV v1.24.6 +
 
 This project is prepared for local plugin development. The `extras` plugin is used as an example.
 
-* `docker-compose.mounts.yaml` is provided to mount the plugin directory
+* The `docker-compose.mounts.yaml` file allows you to mount the plugin directory for local development. Adjust or remove this file as needed to suit your environment.
 * `composer.json` has the necessary additions to use the `extras` local plugins
 * * `minimum-stability` is set to `dev`
 * * `prefer-stable` is set to `true`
