@@ -16,7 +16,7 @@ the following additions:
 * Added scaffolding example pages and basic layout templates in `templates/examples/`
   * `*-simplecss.twig` for simple CSS
   * `*-tailwind.twig` for Tailwind CSS
-* Prepared for local plugin development and using the `extras` plugin as an example
+* Prepared for local plugin development and using the `extras` and `elementmap` plugins as an example
 
 ## DDEV Installation
 
